@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# global-ielts-home
+>>>>>>> 87b7ba798340adf1f33533aecc1ebe22976c5ef0
 # Global IELTS Home Page
 
 This is a **modern and responsive home page** for a fictional IELTS institute called **Global IELTS**, built using **React.js** and **Tailwind CSS**. The design is mobile-friendly and optimized for a professional look.
@@ -46,7 +50,11 @@ This is a **modern and responsive home page** for a fictional IELTS institute ca
 
 ---
 
+<<<<<<< HEAD
 ## **How to Run Locally**
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/global-ielts-home.git
+=======
+
+>>>>>>> 87b7ba798340adf1f33533aecc1ebe22976c5ef0
