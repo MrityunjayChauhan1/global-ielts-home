@@ -47,7 +47,4 @@ This is a **modern and responsive home page** for a fictional IELTS institute ca
 
 ---
 
-## **How to Run Locally**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/global-ielts-home.git
+
